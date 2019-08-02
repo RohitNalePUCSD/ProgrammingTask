@@ -1,0 +1,27 @@
+Task 1
+
+Question: Find all element in array which have at-least two greter elements
+
+Discription : Given an array of n non-distinct element , the task is to find all element 
+                        in array which have at-least two greater element than themselves.
+                        
+Time Complexity : MargeSort (nlogn)
+                           : largeset_Element(n)
+                          =nlogn+n
+                          
+Examples:
+/// How to run the Program:
+
+
+Enter the how many number of elements
+5
+Enter the element 
+2
+8
+7
+1
+5
+
+output:
+1	2	5	 
+ 
