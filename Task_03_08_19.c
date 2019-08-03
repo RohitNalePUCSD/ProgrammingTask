@@ -19,6 +19,8 @@ void primeNumber(int arr[], int n)
 	//Select one element of given array
 	for(int i = 0; i < n; i++)
 	{
+		if(arr[i] == 1 || arr[i] == 0)
+			continue;
 		// set the flag to check prime or not
 		int f = 1;
 
