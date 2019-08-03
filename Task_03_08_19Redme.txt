@@ -1,0 +1,39 @@
+Task 2:
+==========================================================================
+
+Question : Given an array of integer print all alternate prime number from 
+		that list.
+==========================================================================
+
+Complexity : In primeNumber function
+	     first for loop gets O(n)
+	     second for loop gets O(k/2)
+	   = O(n*k/2)
+ 	  => O(nk)
+=========================================================================
+How to RUN the program
+ 
+==========================================================================
+Enter the how many number
+12
+Enter the number 
+4
+5
+7
+2
+4
+9
+11
+10
+17
+6
+8
+7
+
+
+4	5	7	2	4	9	11	10	17	6	8	7	
+
+Given alternet prime number from that list : 
+5	2	17	
+
+=========================================================================================
