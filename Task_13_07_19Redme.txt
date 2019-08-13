@@ -1,0 +1,140 @@
+ 
+===========================================================================================================
+
+  Question : Implement circular queue using singly linked list.
+
+	Only following standard opreation are allowed queue.
+
+		Front : Get the front item from queue.
+
+		Rear : Get last item from queue.
+
+		enQueue(value) : This Function is used to inseert an element into the circular queue.
+				 In a circular queue the new element is always insert at Rear postion.
+		
+		deQueue() : This function is used to delete an element from the circular queue.
+		            In a queue, the element is always deleted from front position
+
+===========================================================================================================
+
+How to run:
+
+===========================================================================================================
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+1
+Enter the element
+10
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+1
+Enter the element
+20
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+1
+Enter the element
+30
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+3
+
+
+10-->20-->30-->NULL
+
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+2
+
+Delete the Front element
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+3
+
+20-->30-->NULL
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+2
+
+Delete the Front element
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+3
+
+30-->NULL
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+2
+Delete the Front element
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+3
+
+Queue is empty...!
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+3
+
+Queue is empty...!
+
+
+case 1: enQueue : Insert an element
+case 2: deQueue : Delete an element
+case 3: Dispaly
+case 4: Exit
+Enter the choices
+4
+=========================================================================================================
