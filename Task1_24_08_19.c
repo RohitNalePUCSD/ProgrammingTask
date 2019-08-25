@@ -1,3 +1,37 @@
+/*
+
+Input
+	The first lines of the input is an integer N (1 <= N <= 100). Next follows
+	the input consisting of ASCII characters. The input is terminated by EOF.
+	You may assume that length of each word is less than 1024 and maximum
+	number of words can be never more than 1024.
+
+Output
+	The input reversed N times with atleast a space/newline between any two
+	words of your output.
+
+Input:
+	2
+	fox jumps over the lazy dog.
+Output:
+	.god .god yzal yzal eht eht revo revo spmuj spmuj xof xofInput:
+
+Input:
+	1
+	It matters not how strait the gate,
+	How charged with punishments the scroll.
+	I am the master of my fate:
+	I am the captain of my soul.
+
+Output:
+	.luos ym fo niatpac eht ma I
+	:etaf ym fo retsam eht ma I
+	.llorcs eht stnemhsinup htiw degrahc woH
+	,etag eht tiarts woh ton srettam tI
+	.luos ym fo niatpac eht ma I
+*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
